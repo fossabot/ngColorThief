@@ -1,4 +1,6 @@
 # ngColorThief
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FStreamJar%2FngColorThief.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FStreamJar%2FngColorThief?ref=badge_shield)
+
 
 ngColorThief is a wrapper for the [ColorThief](https://github.com/lokesh/color-thief) library to extract dominant colors and color palettes from images.
 
@@ -74,3 +76,5 @@ Pull requests are welcome! Please fork, create a branch and submit a pull reques
 ## License
 
 MIT License.
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FStreamJar%2FngColorThief.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FStreamJar%2FngColorThief?ref=badge_large)
